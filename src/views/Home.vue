@@ -7,6 +7,6 @@
 </template>
 
 <script setup>
-// import
+// import new user alicedev94@gmail.com
 import Card from "@/components/Card.vue";
 </script>
